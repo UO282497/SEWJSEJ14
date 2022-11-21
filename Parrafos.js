@@ -1,0 +1,11 @@
+document.write("<p> <ul>");
+document.write("<li>");
+document.write(infoas.curso);
+document.write("</li>");
+document.write("<li>");
+document.write(infoas.nombreEstudiante);
+document.write("</li>");
+document.write("<li>");
+document.write(infoas.correoEstudiante);
+document.write("</li>");
+document.write("</ul> </p>");
